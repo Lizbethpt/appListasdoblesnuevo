@@ -1,0 +1,10 @@
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\bin\Debug\appListasdoblesnuevo.exe.config
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\bin\Debug\appListasdoblesnuevo.exe
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\bin\Debug\appListasdoblesnuevo.pdb
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\obj\Debug\appListasdoblesnuevo.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\obj\Debug\appListasdoblesnuevo.Form1.resources
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\obj\Debug\appListasdoblesnuevo.Properties.Resources.resources
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\obj\Debug\appListasdoblesnuevo.csproj.GenerateResource.cache
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\obj\Debug\appListasdoblesnuevo.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\obj\Debug\appListasdoblesnuevo.exe
+C:\Users\Hector Peña\source\repos\appListasdoblesnuevo\appListasdoblesnuevo\obj\Debug\appListasdoblesnuevo.pdb
